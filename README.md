@@ -1,5 +1,4 @@
 # Lab_3
-# Lab_3
 Aim of the Lab
 To develop a clear understanding of control structures in Python by implementing conditional statements,
 loops, break and continue statements, and to learn how to define and invoke functions for solving
